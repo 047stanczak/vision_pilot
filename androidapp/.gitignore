@@ -1,0 +1,31 @@
+# Arquivos de build
+/build/
+*/build/
+
+# Configurações locais da IDE
+/.idea/
+/*.iml
+
+# Arquivos do Gradle
+.gradle/
+local.properties
+
+# Logs
+*.log
+
+# Pacotes / outputs
+*.apk
+*.ap_
+*.aab
+
+# Arquivos de teste temporários
+*.tmp
+*.temp
+
+# Crashlytics e outros
+fabric.properties
+
+# Misc
+captures/
+.externalNativeBuild/
+.cxx/
